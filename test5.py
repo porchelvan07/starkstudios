@@ -14,4 +14,5 @@ def init():
         print ("Smaller")
         
     print (os.getcwd())
+    print ("Error Occured")
 init() 
